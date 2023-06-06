@@ -6,3 +6,4 @@ accelerate
 bitsandbytes
 peft
 gradio
+scipy
